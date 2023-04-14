@@ -1,0 +1,1337 @@
+CraftyWiz
+Talus
+Hera
+GriffySr
+GriffyJr
+SuperBooker
+gnuchess
+PigeonEngine
+ViceEngine
+IFDTitan
+IFDStock
+exeComp
+SpeckEngine
+ChessterPC
+SuperCrafty
+IFDThor
+JagorCrafty
+ESC
+PoorGnu
+JPCrafty
+SuperPC
+Computer
+IFDCrafty
+SiliconC
+muriel
+amateurcomp
+CraftyNovus
+grekochess
+chezzz
+Singularity
+SugarAI
+chesspartner
+Embracer
+
+    #Chess
+    1K ZX Chess
+    8080 Chess
+    A0lite
+    A16chs
+    Abbess
+    Abrok
+    Abulafia
+    Abyss (Chinese Chess)
+    Achilles
+    Acornsoft Chess
+    ACPP
+    AdaChess
+    Adam
+    Advance
+    AI Chess
+    AICE
+    Alaric
+    Alarm
+    Albatross
+    Aldebaran
+    Alder
+    Alexandra The Great
+    Alexs
+    Alfil
+    Algir
+    AliBaba
+    Alice
+    AliChess
+    Allie
+    Almond, a clone of Now
+    Alouette
+    Alpha I
+    AlphaZero
+    Alybadix
+    Amateur
+    Amoeba
+    Amundsen
+    Amy
+    Amyan
+    Anaconda or Anaconda Chess
+    Ananse
+    Anatoli
+    Android-Chess
+    Andscacs
+    Anechka
+    AnMon
+    Ant
+    Anubis
+    Apery (Shogi)
+    APIL chess
+    Arachne
+    Arasan
+    Ares by Frans van Gool and Erik Leenders
+    Ares by Charles Roberson
+    Argonaut
+    Arion
+    Aristarch
+    Armageddon
+    Arminius
+    Arthur
+    asmFish
+    Asterisk
+    Astro 64
+    Asymptote
+    Atak
+    AtlanChess
+    Atlas by Alex Bell
+    Atlas by Andrés Manzanares Campillo
+    Atom Chess
+    Atomystica
+    Averno
+    Awesome
+    Awit
+    Ax
+    Axon
+    Ayito
+    Bagatur
+    Baislicka
+    Barbarossa
+    Basic-Chess (Bills Bare Bones Chess)
+    Battle Chess
+    BB
+    BBC
+    BBchess by Bernard Brioit
+    BBChess by Borko Bošković
+    BCP
+    Beaches
+    Beal
+    Bebe
+    Belka
+    Belle
+    Belofte
+    Belzebub
+    Bernie
+    Berserk
+    Berta
+    Beowulf
+    Bestia
+    Betsabe II
+    Betsy
+    BigLion
+    BikJump
+    Bills Bare Bones Chess aka Basic-Chess
+    Bionic
+    Bionic Impakt
+    Bismark
+    Bison
+    Bit-Genie
+    Bitboard-Chess
+    Bitfoot
+    BlackBishop
+    Black Knight
+    BlackMamba
+    Black Marlin
+    Blikskottel
+    Blitz
+    Blitz Monster
+    Blondie25
+    Blunderer
+    BMCP
+    BMCP(JS)
+    Bobby
+    Bobcat
+    Bodo
+    Bogol
+    Bonanza (Shogi)
+    BootChess
+    Booot
+    Boris
+    Bouquet
+    BP
+    Brainfish
+    Brainless
+    Brainless (Forth)
+    Brainstorm
+    Brause
+    BreakThrough
+    BremboCE
+    Bright
+    Bringer
+    Bruja
+    Brute Force
+    Brutus
+    Brutus NL
+    Bs6676
+    BugChess by Erik van het Hof and Hermen Reitsma
+    BugChess2 by by François Karr and Jean-Philippe Karr
+    Butcher
+    Butterfly
+    Buzz
+    Caesar
+    Calculon by Barry Smith
+    Caligula by Gerardo Castaño Recio
+    Caligula by Pedro Castro
+    Capivara
+    CAPS
+    Capture
+    Carballo
+    Cassandre
+    Cassia Chess Mate
+    CCCP the Columbia Computer Chess Program
+    CCCP by Pawel Koziol
+    CC Sapiens
+    Celes
+    Centaur
+    CFish
+    Chafitz ARB Sargon 2.5
+    Chafitz Modular Game System
+    Championship Chess
+    CHAOS
+    Charlie
+    Charly
+    Chat
+    Chaturanga by John Poduska Jr.
+    Chaturanga by Stefano Malloggi
+    Che by Oscar Contreras
+    Check Check
+    Cheese
+    Cheiron
+    CHEKMO-II
+    Chenard
+    Cheng
+    Cheops
+    Chepla
+    Ceres
+    Ches
+    Chesley
+    Chess (Program) (Northwestern University)
+    Chess (John Krause)
+    Chess (David Thompson)
+    Chess 0.5 by Larry Atkin and Peter W. Frey
+    Chess 0.5X by Wim Elsenaar
+    Chess 2001
+    Chess 2013
+    Chess 2020
+    chess22k
+    chess4j
+    Chess-64
+    Chess 7.0 by Larry Atkin
+    Chess Art For Kids
+    chess-at-nite
+    ChessBin.com = ChessCore
+    Chess Brain
+    ChessBrain
+    ChessBrainVB
+    Chess Challenger
+    Chess Champion MK I
+    Chess Champion MK II
+    Chess Champion Mark IV
+    Chess Champion Mark V
+    Chess Champion Pocket Chess
+    Chess Champion Super System III aka Super System III and ChessMaster
+    Chess Christy by Bruno Bras, France
+    ChessCore (ChessBin.com)
+    Chess Fighter
+    Chess for Android
+    Chess for Glass
+    Chess Free
+    Chess Genius
+    Chess Guru
+    Chessica
+    ChessLin
+    ChessMachine
+    ChessMaps
+    Chessmaster
+    ChessMaster aka Chess Champion Super System III
+    Chess-Master
+    Chessmate
+    ChessMind
+    Chess Monster
+    Chessnut
+    Chess Partner
+    Chess Partner 2000
+    Chess Player 2150
+    Chess Simulator
+    Chess System 2175
+    Chess System Tal
+    Chesstar
+    Chessterfield
+    Chess Tiger
+    Chess Tutor
+    Chess Tutor 1
+    ChessV
+    Chess Wizard
+    Chest
+    Chester
+    Chexa
+    Chezzz
+    Chimo (Chinese Chess)
+    Chinito
+    ChipTest
+    Chiron
+    Chispa
+    Chompster
+    Chronos
+    CHUMP
+    Chunker
+    Chute
+    CilkChess
+    Cinnamon
+    Cipollino
+    Clarabit
+    Clash
+    ClassicAra
+    Claudia
+    Clever & Smart
+    Clover
+    Clubfoot
+    Cluster Toga
+    Cmcchess
+    CMU Chess Program
+    Cobalt
+    Coiled
+    Coko
+    Colossus Chess
+    Combusken
+    Comet
+    Commodore ChessMate
+    Complete Chess System
+    Complete Chess System II - TAL = Chess System Tal
+    Composer
+    CompuChess
+    CompuChess (PC)
+    Compucolor Chess
+    Computer Chess
+    Conchess
+    Confucius
+    Conic X
+    Conqueror
+    Constellation = Novag Constellation
+    ConvChess
+    CookieCat
+    Corel Chess
+    Counter
+    CPW-Engine
+    Crabby
+    Crafty
+    Crashtest Dummy
+    Cray Blitz
+    CrazyAra
+    Crazywa
+    Critter
+    Crux
+    Crystal
+    CT800
+    Cube
+    CuckooChess
+    Cumulus
+    Cupcake
+    CXG Computachess I (Cassia Chess Mate)
+    CXG Sensor Computachess
+    CXG Sphinx
+    CXG Star Chess
+    Cyber Chess
+    CyberPagno
+    Cyborg
+    Cyclone
+    Cyrus
+    Cyrus 68K
+    Czolgista
+    Dabbaba
+    Daja
+    Daly CP
+    DanChess
+    DanaSah
+    Dappet
+    Dark Horse
+    DarkThought
+    Darmenios
+    Dart
+    Dartmouth CP
+    Daydreamer
+    David
+    Death Chess 5000
+    Deep<9>
+    Deep BASIC
+    Deep Blue
+    DeepBrutePos » PuppetMaster
+    Deep Pink
+    Deep Saros
+    Deep Sjeng
+    Deep Thought
+    Defenchess
+    Delfi
+    Delicate Brute
+    Delphil
+    DelphiMax
+    Delta by Dave Wilson
+    Delta by Fré Felkers
+    Demolito
+    Desperado
+    Deus X
+    Deuterium
+    DGT Pi
+    Diablo
+    Diep
+    Dimitri
+    Diogenes
+    Dirty
+    DisasterArea
+    DiscoCheck
+    Disney's Aladdin Chess Adventures
+    Djinn
+    Doch
+    Doctor?
+    Dolphin
+    DON
+    Donna
+    Dorky
+    Dorpsgek
+    Drago
+    Dragon by Komodo Chess
+    Dragon (Chess Assistant)
+    Dragon FR
+    Dragon RU
+    Dreamer
+    Drofa
+    DroidFish
+    DrunkenMaster
+    Duchess
+    Duck
+    Dumb
+    Durandal
+    Dutch
+    E6P
+    ECE
+    Échec
+    Écume
+    EdChess
+    Eden
+    Eeyore
+    EGA Chess
+    EGM
+    Eichhörnchen
+    El Ajedrecista
+    Elegance
+    Elektro
+    Elektronika IM
+    Elephant
+    Elite
+    Elsa
+    Eman
+    Embla
+    Endspiel
+    EnginMax
+    Enigma
+    Enterprise
+    Eowyn
+    Equinox
+    Esc
+    E.T.Chess
+    EtaBeta
+    ETAOIN SHRDLU
+    Ethereal
+    Eugen
+    Evaluator
+    EveAnn
+    Exacto
+    Excalibur Alexandra The Great
+    Excalibur Grandmaster
+    Excalibur Igor
+    Excalibur Ivan The Terrible
+    Excalibur Ivan II The Conqueror
+    Excalibur King Arthur
+    Excalibur LCD Chess
+    Excalibur Mirage
+    Excalibur Phantom Force
+    Excel
+    Excellence
+    Excelsior
+    EXchess
+    Experimental
+    Explorer
+    FabChess
+    Fafis
+    Faile
+    Fairy-Max
+    Falcon
+    FastChess
+    Fat Fritz
+    Fat Titz
+    FCP
+    Feeks
+    Fencer
+    Ferret
+    FIBChess
+    Fidelity
+    Fidelity Phantom
+    Fire
+    FireFly
+    Firenzina
+    FirstChess
+    Fischer-Schneider
+    Fischerle
+    Fixafan
+    Fizbo
+    Floyd
+    Flux
+    Fortress
+    The Fox
+    Francesca
+    FrankWalter
+    Frantz
+    Freccia
+    Freedom
+    Frenchess
+    Frenzee
+    Freyr
+    Fridolin
+    Fritz
+    Fruit
+    Fruit Reloaded
+    FUSc#
+    Futé
+    Gadget
+    Gaia
+    Galahad
+    Galjoen
+    Gambiet
+    Gambit Fruit
+    Gambit Tiger
+    GambitVB
+    Gandalf
+    Garbochess
+    Garbochess-JS
+    Gargamella
+    Ga Tech CP
+    Gaviota
+    Gazebo
+    Gedeon
+    Genesis by Claudio Bollini
+    Genesis by Eli David
+    Genesis by Eric van Riet Paap
+    Genie
+    Genisis
+    Gerbil
+    GES
+    Ghost
+    Gibbon
+    Gideon
+    Ginkgo
+    Giraffe
+    GiuChess
+    Gk
+    GK 2100
+    Glass
+    Glaurung
+    GNU Chess
+    GoBit
+    Gochess
+    Godot
+    Gogobello
+    Golch
+    Goldbar
+    Golem
+    Goliath
+    Googleplex Starthinker
+    GopherCheck
+    Gosu
+    Gothmog
+    Graduate Chess = Mini Chess
+    Grandmaster
+    Grandmaster Chess
+    Great Game Machine
+    Greco
+    Greenblatt Chess Program = Mac Hack
+    Green Light Chess
+    Greif
+    GreKo
+    GridChess
+    GridProtector
+    Grok
+    Gromit (GromitChess)
+    Gull (GullChess)
+    Gullydeckel
+    Gunda-1
+    Gupta
+    Gustav
+    GVNA
+    Hactar
+    Hagrid
+    Hakkapeliitta
+    HAL
+    Halogen
+    HamedChess
+    Hamsters
+    Hannibal
+    HansDamf
+    Happy-Chess
+    HaQiKi D (Chinese Chess)
+    HeavyChess
+    Hector
+    Hector for Chess
+    Hedgehog
+    Hefeweizen (Shogi)
+    Hermann
+    Heureka
+    Heuristic Alpha
+    HexxPawn
+    HIARCS
+    HiTech
+    Holmes
+    Homer
+    Hopeless
+    Horizon
+    Hossa
+    Houdini
+    HpChess
+    Huberman
+    Hussar
+    Hydra (FPGA program)
+    Hydra
+    Hypra-Chess
+    iCE
+    Ifrit
+    Igel
+    IGM
+    Igorrit
+    Ikarus
+    InmiChess
+    Innovation
+    Insomniac
+    Intellect
+    IntelliChess
+    Intelligent Chess = SciSys Intelligent Chess
+    Intelligent Chess Software
+    InterChess
+    Invictus
+    iota
+    Ippolit
+    Iron Fish
+    Isa
+    IsiChess
+    ITEP Chess Program
+    IvanHoe
+    Ivan The Terrible
+    Ivan II The Conqueror
+    Jabba
+    Jaglavak
+    JanWillem
+    Jaque Al Perro Guasón (Schweinehund)
+    JARS
+    JavaScript-Chess
+    Jazz
+    J. Biit
+    Jellyfish
+    Jester by Stéphane Nguyen
+    Jester by Marty Franz
+    JFresh
+    JikChess
+    Joanna
+    Joker by Marc-François Baudot and Jean-Christophe Weill
+    Joker by Manlio Morini
+    Joker by Harm Geert Muller
+    Jonny
+    JS Schach
+    Jumbo
+    Junior
+    Junior Chess = Mini Chess
+    Jupiter
+    K2
+    Kaissa
+    Kaissa (BY)
+    Kallisto
+    Kanguruh
+    Kasparov Chessmate
+    Kasparov's Gambit
+    Kasparov Sparc = Saitek Sparc
+    KC Chess
+    Kches6
+    KChess
+    Kempelen
+    Kenny
+    Kholin
+    Killer by Kees de Kruif
+    Killer by Mario Carbonell Martinez, German Blanquer and Alvaro Benlloch
+    Killer Chess (K. Chess)
+    King of Kings
+    KingSlayer
+    Kiwi
+    KnightCap
+    Knight Dreamer
+    KnightX
+    KnockOut
+    Koivisto
+    Komodo
+    Kotok-McCarthy-Program
+    Kristallweizen (Shogi)
+    Kristy Lenix
+    Ktulu
+    Kurt
+    La Dame Blanche
+    La Regence
+    Labirint 64
+    Lachex
+    LaGrande
+    LambChop
+    Lancaster
+    LaPetite
+    LarsenVB
+    Laser
+    LChess
+    LearningLemming
+    Leela Chess Zero
+    Leila
+    L'Empereur
+    Leonidas
+    Leorik
+    Leverett CP
+    L'Excentrique
+    Lime
+    Lion
+    List
+    Little Goliath (Goliath)
+    Little Rook Chess
+    LittleThought
+    Little Wing
+    LL Chess
+    LogiChess
+    Loki
+    Loop
+    Loper 82
+    Lord King
+    Lozza
+    LTChess
+    Luciole
+    m1.0
+    Mac Hack - The Greenblatt Chess Program
+    MacChess
+    Machiavelli
+    MadChess
+    Madeleine
+    Madlenka
+    Madness Schach
+    Magellan
+    Maia Chess
+    Majestic Chess
+    MANIAC I
+    Mantissa
+    Mark Watson Chess
+    Marquis
+    Marvin
+    Master
+    Master Chess
+    Matacz
+    Matador
+    Matant
+    Matchess
+    Mate-in-two
+    Mater
+    Matheus
+    Matilde
+    MatMoi
+    Maverick
+    MAX by James Gillogly
+    Max by Guy Burkill
+    Maxima2
+    Mayhem
+    MBChess
+    McBrain
+    MChess
+    McTobber
+    Mediocre
+    Meep
+    Megachess
+    Mephisto (Richard Lang)
+    Mephisto Amsterdam
+    Mephisto Dallas
+    Mephisto Roma
+    Mephisto Almeria
+    Mephisto Portorose
+    Mephisto Lyon
+    Mephisto Vancouver
+    Mephisto Wundermaschine
+    Mephisto Genius 68030
+    Mephisto Atlanta (Frans Morsch)
+    Mephisto Europa (Frans Morsch)
+    Mephisto (H) (Henne, Nitsche)
+    Mephisto MM I
+    Mephisto III-S Glasgow
+    Mephisto Milano (Ed Schröder)
+    Mephisto Milano Pro (Frans Morsch)
+    Mephisto MM II (Ulf Rathsman)
+    Mephisto MM IV (Ed Schröder)
+    Mephisto MM V (Ed Schröder)
+    Mephisto Mondial (Frans Morsch)
+    Mephisto Montreux (Johan de Koning)
+    Mephisto Nigel Short (Ed Schröder)
+    Mephisto Polgar (Ed Schröder)
+    Mephisto Rebell (Ed Schröder)
+    Mephisto RISC (Ed Schröder)
+    Merlin by Jeff Rollason
+    Merlin from Vienna University of Technology
+    Merlin by Balázs Jákó
+    MessChess
+    Metagamer
+    Micah
+    MicroChess
+    Micro-Max
+    MicroMurks
+    Micro Power Chess
+    Microtrend Experimental
+    Millennium ChessGenius
+    Millennium The King
+    Milobarus
+    Milton Bradley Phantom
+    Mike
+    Mini
+    Mini Chess
+    Minic
+    MinimalChess
+    Minimax
+    MinkoChess
+    Mint
+    Mirage
+    MLChess
+    Mobile Chess
+    Moby
+    Monarch
+    Monolith
+    Monsoon
+    Mora
+    Morgoth
+    Morph
+    Morphy with Gruenfeld and Capablanca » Applied Concepts
+    Moustique
+    Movei
+    Mr Bob
+    Mr. Turk
+    MSCP
+    MSU CP
+    Much
+    Mulder BP = BP
+    Murka
+    Murks
+    Muse
+    Mustang
+    MyChess
+    Myopic
+    Myrddin
+    NagaSkaki
+    Nalwald
+    nanoSzachy
+    Napoleon
+    Naraku
+    Natwarlal
+    Naum
+    Nebiyu
+    Nebula
+    Nejmet
+    Nemeton
+    Nemo
+    Nemorino
+    Neptune
+    Nero
+    Nesik
+    Nest by Bruno Bras, France
+    NeuroChess
+    Neurologic
+    Neurone
+    Neurosis
+    Nexus
+    NG-play
+    Nibble-Chess
+    Nightmare by Joost Buijs
+    Nightmare by Reinhold Gellner and Gaby von Rekowski
+    Nimzo
+    Nirvanachess
+    N.N.
+    Nona
+    NoonianChess
+    NoraGrace
+    NotChess
+    Nova Chess
+    Novag Citrine
+    Novag Constellation = Constellation
+    Novag Diamond
+    Novag Expert
+    Novag Forte
+    Novag Micro Chess
+    Novag Sapphire
+    Novag Savant = Savant
+    Novag X
+    Now
+    NPMchess = Witchess
+    NSS
+    Nuchess
+    Nullmover
+    Numpty chess
+    OBender
+    Occam
+    Octavius
+    October
+    Octochess
+    Odesta Chess (Chess 7.0)
+    OliThink
+    OlympusChess
+    Onno
+    Orion
+    Orwell
+    Ostrich
+    Ozwald
+    p4wn
+    Pachera
+    Pacque Expert by Bruno Bras, France
+    Paladin
+    Pandix
+    Pandora
+    Papa
+    Parabelle
+    Paradise
+    Par Excellence
+    Parker Chess
+    Parrot
+    ParSOS - parallel version of SOS
+    Parwell
+    Pastime
+    Patriot
+    Patsoc
+    Patzer by Werner Koch and Thomas Schäfer
+    Patzer by Roland Pfister
+    Paul
+    paulchen332
+    Pawn
+    Pawnder
+    PawnKing
+    Pawny
+    P.ConNerS
+    pChess (for Mac OSX, with FB5 source code)
+    Peasant
+    Pedone
+    Pepito
+    PeSTO
+    PetChess
+    Petir
+    Petunia
+    Phalanx
+    Pharaon
+    Philidor
+    Philou
+    Phoenix
+    Phoenix (Rahul)
+    PICcolino
+    PicoChess
+    Pigeon
+    PikoSzachy
+    Pion
+    Pioneer
+    Pirarucu
+    PixChess
+    PK80 and PK83
+    Planner
+    Play Magnus
+    Plisk
+    Plymate
+    PocketGrandmaster
+    PolarChess
+    Popeye
+    Popochin
+    Portfish
+    Porucznik
+    PostModernist
+    Power Chess
+    Praetorian
+    Prédateur
+    President Chess
+    Princhess
+    Private Line
+    ProDeo
+    Prochess by Tom Pronk
+    ProChess by Edoardo Manino
+    Prodigy
+    Prophet
+    Proscha
+    Protector
+    Protej
+    Pschach
+    Pseudo
+    Psi Chess
+    Psion
+    Psion Chess (Barel)
+    Psycho
+    Psycho-Chess
+    PsycoChess
+    Pulsar
+    Pulse
+    PuppetMaster » DeepBrutePos
+    Purple Haze
+    PyChess
+    QBBEngine
+    QCHESS
+    Quark
+    Quazar
+    Queen
+    QueenMaxima = (BugChess NL)
+    Querg
+    Quest
+    Quickstep
+    QuTeChess
+    Rabbit
+    Raffaela
+    Rajah
+    RamJet
+    Raptor by Frédéric Louguet
+    Raptor by Steve Webber
+    Raspberry Turk
+    Rasputin
+    RattateChess
+    RCS Granit
+    RDChess
+    Rebel
+    RedQueen
+    Replicant
+    Requiem
+    Resp
+    Revenge
+    Rex
+    RexChess
+    Rhetoric
+    Ribbit
+    Rinko
+    RISC 2500
+    Rival
+    Robin by Péter Horváth
+    Robin by Piotr Dachtera
+    Robocide
+    RobboLito
+    Robot Adversary
+    Roc
+    ROCE
+    Rocinante
+    Rodent
+    Rodin
+    RofChade
+    RomiChess
+    Rondo
+    Rook
+    Rookie
+    Rotor
+    RubiChess
+    Ruffian
+    Rufus
+    RumbleMinze
+    Rustfish
+    Rustic
+    RuyDos
+    Ruy Lopez
+    Rybka
+    SABA Videoplay 20
+    Sabrina
+    Saitek Brute Force
+    Saitek Galileo (SciSys Leonardo)
+    Saitek President
+    Saitek Renaissance
+    Saitek Sparc = Kasparov Sparc
+    SAL
+    Samiel
+    Sapeli
+    Sargon
+    Satana
+    Savant = Novag Savant
+    Sayuri
+    SC 1
+    SC 2
+    Scaramanga, a clone of Now
+    Schaak
+    Schach by Matthias Engelbach and Thomas Kreitmair
+    Schach by Rolf C. Smith and Franklin D. Ceruti
+    Schach MV 5,6
+    Schaker
+    Schak-H
+    SCHK-Y
+    Schooner
+    Schweinehund
+    Scidlet
+    SciSys Companion II
+    SciSys Concord II
+    SciSys Explorer
+    SciSys Graduate Chess = Mini Chess
+    SciSys Intelligent Chess = Intelligent Chess
+    SciSys Junior Chess = Mini Chess
+    SciSys Leonardo
+    SciSys Mini Chess = Mini Chess
+    SciSys President = President Chess
+    SciSys Sensor Chess = Sensor Chess
+    SciSys Superstar = Superstar
+    SciSys Turbostar = Turbostar
+    SciSys X
+    Scorpio
+    SCP
+    Screamer
+    SD Chess
+    Searcher
+    SEE
+    Seer
+    Senpai
+    Sensor Chess
+    Sensory 9
+    Sfinks
+    Shallow Blue
+    Shark
+    Sharky
+    SharpChess
+    Sharper
+    ShashChess
+    Shatranj
+    Shess
+    Shield
+    Shiga (Chinese Chess)
+    Shredder
+    Shrike
+    Shura-Bura's Program
+    Shy
+    Siberian Chess
+    Sidonia
+    Sierżant was a predecessor of Porucznik
+    Simon
+    Simplex
+    Sinobyl (ex Latista)
+    Sjaak (TrojanKnight) by Ronald de Man
+    Sjaak by Evert Glebbeek
+    Sjakk
+    Sjeng
+    Skaki
+    Sloppy
+    Slow Chess
+    Small-C
+    Small Potato
+    SmarThink
+    Smash
+    Smaug
+    SMIRF
+    SnailChess
+    Sneaky Pete
+    Snitch
+    Socrates
+    Soft Jacqueline Bras by Bruno Bras, France
+    Soldat
+    SOMA
+    Sortie
+    SOS
+    Spark
+    Spartacus
+    Spartan
+    Spector
+    Spectrum Chess
+    Sphinx (CXG Sphinx)
+    Spike
+    SpiderChess
+    SPOC
+    Square Off
+    squared-chess
+    SquarknII
+    StAndersen
+    Star Socrates
+    StarTech
+    Stash
+    Steinitz
+    Steve Stuart Chess
+    Sting
+    Stobor
+    Stockfish
+    Stockfish-js
+    Stockfish NNUE
+    Stonewall
+    Stoofvlees
+    Storm by Sean Empey
+    Storm by Theo van der Storm
+    Strategist
+    Strelka
+    Stupid
+    SugaR
+    Sunfish
+    Sungorus
+    Sunsetter
+    Super Constellation
+    SuperChess
+    Superpawn
+    Superstar
+    Supra
+    Surprise
+    Symbolic
+    Szeregowiec
+    Taktix
+    Tamerlane
+    Tao
+    TASC R30
+    TASC R40
+    TDChess
+    Tech by James Gillogly
+    Tech 2 by Alan Baisley
+    Tech 3 by Alexander Szabo
+    TechMate
+    Techno Chess
+    Teki
+    Telepath
+    Tell
+    Tempo
+    Tenberg Basic Chess
+    Terra
+    Texel
+    The Baron
+    The Bernstein Chess Program
+    The Crazy Bishop
+    The Final Chesscard
+    The King
+    The Sniper
+    The Turk by Yngvi Björnsson and Andreas Junghanns
+    The Turk by Yakup İpek
+    Thinker
+    Thinking Machine 4
+    Thor's Hammer
+    Tigran by Gábor Mihály
+    Tigran by Josep Parés
+    Timea
+    Tinker
+    Tinman
+    Tiny Chess 86
+    Titan
+    Tobber
+    Toga
+    Toga Log
+    Toledo = Toledo 2000 by Gerardo Castaño Recio
+    Toledo by Óscar Toledo Gutiérrez
+    tomitankChess
+    Topple
+    Tornado
+    Touch
+    TRACE
+    Treebeard
+    Treefrog
+    Tristram
+    TSCP
+    Tucano
+    Tumult
+    Tunguska
+    Turbo Chess by Kaare Danielsen
+    Turbo Chess by Chris A. Thornton
+    Turbostar
+    Turning Point
+    Turochamp
+    Twisted Logic
+    Typhoon
+    Tyro
+    Tytan
+    Tzunami
+    USC CP
+    USCF Chess
+    Ufim
+    Ultra Chess
+    Ulysses
+    Uragano
+    Usurpator
+    Vajolet
+    Vanilla Chess (VChess)
+    Vapor
+    Vaxchess
+    Vega
+    Vektor3
+    Velvet
+    Vice
+    Video Chess
+    Videopac C 7010
+    Viktor
+    Viper
+    Virtua Chess
+    Virtual Chess
+    Virtual Kasparov
+    Vitruvius
+    Voyager
+    WaDuuttie
+    Wappler
+    Warlord
+    Warp
+    Warrior
+    Wasp
+    Waycool
+    Waxman
+    WChess
+    Weini
+    Weiss
+    White Knight
+    Why Not (Y!)
+    Wii Chess
+    WildCat
+    Wilhelm
+    Wing
+    Winglet
+    Winter
+    Wita (Awit)
+    Witchess
+    Witz
+    Wizard
+    Woodpecker
+    Woodpusher
+    World Class Chess
+    Wukong
+    Wukong JS
+    WyldChess
+    Xadreco
+    XChess
+    Xenarbor
+    Xian (Chinese Chess)
+    XieXie (Chinese Chess)
+    XiniX
+    Xiphos
+    Xpdnt
+    XXXX
+
+Y
+
+    Y!
+    Yace
+    YaneuraOu (Shogi)
+    YChess
+    YNCT
+    Yoda
+    Z-Chess
+    Zahak
+    Zappa
+    Zarkov
+    ZChess
+    ZCT
+    Zen
+    Zerker
+    Zeta
+    Zeta Dva
+    Zeus by Gerardo Castaño Recio
+    Zeus by Vadim Bykov
+    Zevra
+    Ziggurat by David Norris
+    Ziggy by Henk Kuyer and Auke Punter
+    Ziggy by Hrafn Eiríksson
+    Zilch
+    Zillions of Games
+    Zochova
+    Zorland Chess
+    Zugzwang
+    Zurichess
+    ZX Chess
+    ZX Spectrum Chess
+    Zzzzzz
