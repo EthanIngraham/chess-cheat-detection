@@ -6,6 +6,9 @@
 The directories 'test' 'train' and 'valid' contains the dataset of key sequences used for training and evaluating the model.
 The directory 'random' contains an alternative dataset of random sequences that can be used to train the model if 'PATH' is adjusted in the neuralnet.ipynb file.
 The directory 'experiment_sequences' contains the sequences from the games where players had cheated in the experiment outlined in the paper.
+
+
+There were some directories that could not be uploaded due to storage constraints, but were used locally:
 The directory 'pgns' contains all of the game files used to generate the game sequences. Individual pgn files contained in this directory may consist of more than one game.
 The directory 'runs' is a recording of the model's performances (loss, accuracy, P/R Curve) which can be viewed with TensorBoard
 
