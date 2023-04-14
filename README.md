@@ -3,9 +3,7 @@
 
 ## Explanation of Files 
 
-Due to maximum file size limitations when uploading to moodle, the folders containing the sequences and PGN files are not within this ZIP file but will be contained in the repository. (https://github.com/EthanIngraham/chess-cheat-detection)
-
-The directories'test' 'train' and 'valid' contains the dataset of key sequences used for training and evaluating the model.
+The directories 'test' 'train' and 'valid' contains the dataset of key sequences used for training and evaluating the model.
 The directory 'random' contains an alternative dataset of random sequences that can be used to train the model if 'PATH' is adjusted in the neuralnet.ipynb file.
 The directory 'experiment_sequences' contains the sequences from the games where players had cheated in the experiment outlined in the paper.
 The directory 'pgns' contains all of the game files used to generate the game sequences. Individual pgn files contained in this directory may consist of more than one game.
